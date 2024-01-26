@@ -1,0 +1,1 @@
+This is a simple demo-application that shows the usage of functional interfaces.
